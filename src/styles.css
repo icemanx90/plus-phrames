@@ -14,4 +14,13 @@ body {
         border: none;
         border-radius: 0;
         background-color: rgba(0,0,0,0.5) !important;
-    }
+}
+
+.homeVideoContainer{
+    height: 550px;
+    overflow: hidden;
+}
+
+.homeMarketing{
+    text-align: center;
+}
